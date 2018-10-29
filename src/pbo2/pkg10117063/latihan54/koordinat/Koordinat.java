@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10117063.latihan54.koordinat;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Kelas: IF-2
+Nim  : 10117063
+Deskripsi Program : Menampilkan Koordinat
  */
 public class Koordinat {
     protected int x;
